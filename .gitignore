@@ -1,0 +1,14 @@
+node_modules
+public
+.env
+*.log
+.DS_Store
+storage/public
+observations.txt
+yarn.lock
+.vscode
+.nvmrc
+package-lock.json
+.env.example
+.vercel.json
+.vercel
